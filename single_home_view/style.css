@@ -1,0 +1,568 @@
+.SINGLE-APARTMENT {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.SINGLE-APARTMENT .overlap-wrapper {
+  overflow-x: hidden;
+  width: 704px;
+  height: 723px;
+}
+
+.SINGLE-APARTMENT .overlap {
+  position: relative;
+  width: 720px;
+  height: 723px;
+}
+
+.SINGLE-APARTMENT .APARTMENTS {
+  position: absolute;
+  width: 720px;
+  height: 723px;
+  top: 0;
+  left: 0;
+}
+
+.SINGLE-APARTMENT .overlap-group {
+  position: relative;
+  width: 704px;
+  height: 723px;
+  border-radius: 15px;
+  background: conic-gradient(
+    from 180deg at 50% 50%,
+    rgba(18, 75, 53, 0.5) 0.11deg,
+    rgb(250.75, 247.62, 247.62) 179.88deg
+  );
+}
+
+.SINGLE-APARTMENT .bell-pin-fill {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 17px;
+  left: 581px;
+}
+
+.SINGLE-APARTMENT .div {
+  position: absolute;
+  width: 662px;
+  height: 584px;
+  top: 123px;
+  left: 21px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.SINGLE-APARTMENT .text-wrapper {
+  position: absolute;
+  top: 329px;
+  left: 109px;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 1.44px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .text-wrapper-2 {
+  position: absolute;
+  top: 384px;
+  left: 109px;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 1.44px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .element {
+  position: absolute;
+  top: 437px;
+  left: 109px;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .span {
+  letter-spacing: -4.32px;
+}
+
+.SINGLE-APARTMENT .text-wrapper-3 {
+  letter-spacing: -1.44px;
+}
+
+.SINGLE-APARTMENT .text-wrapper-4 {
+  position: absolute;
+  top: 487px;
+  left: 109px;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: -2.52px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .dollar {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 432px;
+  left: 48px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .overlap-2 {
+  position: absolute;
+  width: 197px;
+  height: 45px;
+  top: 73px;
+  left: 42px;
+  background-image: url(./img/rectangle-6.png);
+  background-size: 100% 100%;
+}
+
+.SINGLE-APARTMENT .text-wrapper-5 {
+  position: absolute;
+  width: 120px;
+  top: 9px;
+  left: 56px;
+  -webkit-text-stroke: 0.3px #000000;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .users {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 5px;
+  left: 13px;
+}
+
+.SINGLE-APARTMENT .overlap-3 {
+  position: absolute;
+  width: 197px;
+  height: 45px;
+  top: 73px;
+  left: 466px;
+  background-image: url(./img/rectangle-6.png);
+  background-size: 100% 100%;
+}
+
+.SINGLE-APARTMENT .user-checked {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 3px;
+  left: 19px;
+}
+
+.SINGLE-APARTMENT .text-wrapper-6 {
+  position: absolute;
+  width: 104px;
+  top: 9px;
+  left: 64px;
+  -webkit-text-stroke: 0.3px #000000;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .overlap-4 {
+  position: absolute;
+  width: 200px;
+  height: 48px;
+  top: 72px;
+  left: 252px;
+  background-image: url(./img/rectangle-5.png);
+  background-size: 100% 100%;
+}
+
+.SINGLE-APARTMENT .vector-wrapper {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 4px;
+  left: 16px;
+  background-color: #000000;
+  border-radius: 15px;
+}
+
+.SINGLE-APARTMENT .vector {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 6px;
+  left: 7px;
+}
+
+.SINGLE-APARTMENT .text-wrapper-7 {
+  position: absolute;
+  width: 70px;
+  top: 9px;
+  left: 70px;
+  -webkit-text-stroke: 0.3px #000000;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .text-wrapper-8 {
+  position: absolute;
+  width: 144px;
+  top: 7px;
+  left: 95px;
+  -webkit-text-stroke: 0.3px #000000;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0.96px;
+  line-height: 24px;
+}
+
+.SINGLE-APARTMENT .menu {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 17px;
+  left: 15px;
+}
+
+.SINGLE-APARTMENT .user-circle {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 17px;
+  left: 638px;
+}
+
+.SINGLE-APARTMENT .home-button {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 4px;
+  left: 322px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .apartment {
+  width: 244px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  height: 225px;
+  top: 159px;
+}
+
+.SINGLE-APARTMENT .img {
+  width: 201px;
+  left: 19px;
+  position: absolute;
+  height: 225px;
+  top: 159px;
+}
+
+.SINGLE-APARTMENT .apartment-2 {
+  width: 202px;
+  left: 484px;
+  position: absolute;
+  height: 225px;
+  top: 159px;
+}
+
+.SINGLE-APARTMENT .line {
+  position: absolute;
+  width: 662px;
+  height: 1px;
+  top: 149px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .line-2 {
+  position: absolute;
+  width: 662px;
+  height: 1px;
+  top: 384px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .p {
+  position: absolute;
+  top: 393px;
+  left: 90px;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 1.44px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .text-wrapper-9 {
+  position: absolute;
+  top: 555px;
+  left: 349px;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 1.28px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .single-bed {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 448px;
+  left: 70px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .toilet {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 502px;
+  left: 70px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .distance {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 610px;
+  left: 70px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .air-conditioning {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 594px;
+  left: 420px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .heater {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 592px;
+  left: 499px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .group {
+  position: absolute;
+  width: 141px;
+  height: 35px;
+  top: 448px;
+  left: 344px;
+}
+
+.SINGLE-APARTMENT .group-wrapper {
+  position: relative;
+  width: 151px;
+  height: 45px;
+  top: -1px;
+  left: -5px;
+  background-image: url(./img/rectangle-42.png);
+  background-size: 100% 100%;
+}
+
+.SINGLE-APARTMENT .group-2 {
+  position: relative;
+  width: 135px;
+  height: 34px;
+  top: 1px;
+  left: 13px;
+}
+
+.SINGLE-APARTMENT .chat-alt-fill {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 0;
+  left: 0;
+}
+
+.SINGLE-APARTMENT .text-wrapper-10 {
+  position: absolute;
+  width: 90px;
+  top: 5px;
+  left: 42px;
+  -webkit-text-stroke: 0.3px #000000;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .overlap-group-wrapper {
+  position: absolute;
+  width: 141px;
+  height: 35px;
+  top: 501px;
+  left: 510px;
+}
+
+.SINGLE-APARTMENT .div-wrapper {
+  position: relative;
+  width: 92px;
+  height: 22px;
+  top: 7px;
+  left: 56px;
+}
+
+.SINGLE-APARTMENT .text-wrapper-11 {
+  position: absolute;
+  width: 90px;
+  top: -1px;
+  left: -1px;
+  -webkit-text-stroke: 0.3px #000000;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0.8px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.SINGLE-APARTMENT .group-3 {
+  position: absolute;
+  width: 141px;
+  height: 35px;
+  top: 448px;
+  left: 510px;
+}
+
+.SINGLE-APARTMENT .share {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 451px;
+  left: 519px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .group-4 {
+  position: absolute;
+  width: 141px;
+  height: 35px;
+  top: 501px;
+  left: 344px;
+}
+
+.SINGLE-APARTMENT .vector-2 {
+  position: absolute;
+  width: 26px;
+  height: 24px;
+  top: 509px;
+  left: 356px;
+}
+
+.SINGLE-APARTMENT .laundry-machine {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 594px;
+  left: 341px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .swimming-pool {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 592px;
+  left: 578px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .warning {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 504px;
+  left: 521px;
+  object-fit: cover;
+}
+
+.SINGLE-APARTMENT .group-5 {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 20px;
+  left: 395px;
+  background-color: #beb8b8;
+  border-radius: 28px;
+}
+
+.SINGLE-APARTMENT .group-6 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  top: 6px;
+  left: 6px;
+}
+
+.SINGLE-APARTMENT .overlap-group-2 {
+  position: relative;
+  height: 16px;
+}
+
+.SINGLE-APARTMENT .line-3 {
+  position: absolute;
+  width: 5px;
+  height: 16px;
+  top: 0;
+  left: 6px;
+}
+
+.SINGLE-APARTMENT .line-4 {
+  position: absolute;
+  width: 16px;
+  height: 5px;
+  top: 6px;
+  left: 0;
+}
