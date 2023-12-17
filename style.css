@@ -218,3 +218,106 @@
   line-height: 48px;
   white-space: nowrap;
 }
+
+/* Dropup Button */
+.dropbtn {
+  /* background-color: #3498DB; */
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropup content */
+.dropup {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropup content (Hidden by Default) */
+.dropup-content {
+  display: none;
+  position: absolute;
+  bottom: 50px;
+  background-color: #f1f1f1;
+  min-width: 225px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropup */
+.dropup-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropup links on hover */
+.dropup-content a:hover {
+  background-color: #ddd;
+  bottom:100%;
+}
+
+/* Show the dropup menu on hover */
+/* .dropup:hover .dropup-content{
+  display: block;
+} */
+
+.dropup:hover .dropup-content {
+  display: block;
+  bottom: -60%;
+}
+
+/* Change the background color of the dropup button when the dropup content is shown
+.dropup:hover .dropbtn {
+  background-color: #2980B9;
+} */
+
+.HOMEPAGE .text-wrapper-10 {
+  position: absolute;
+  /* width: 279px;*/
+  top: 10px; 
+  left: 100px; 
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 0.2px #000000;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #0a0000;
+  font-size: 25px;
+  letter-spacing: 1.92px;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.HOMEPAGE .text-wrapper-11 {
+  position: absolute;
+  /* width: 279px;*/
+  top: 70px; 
+  left: 100px; 
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 0.2px #000000;
+  font-family: "Mallanna", Helvetica;
+  font-weight: 400;
+  color: #0a0000;
+  font-size: 25px;
+  letter-spacing: 1.92px;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.HOMEPAGE .matches {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 60px; 
+
+
+}
+
+.HOMEPAGE .profile {
+  position: absolute;
+
+}
+
+
