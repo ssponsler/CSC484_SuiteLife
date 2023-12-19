@@ -36,7 +36,7 @@ html, body {
   width: 704px;
   height: 723px;
   border-radius: 15px;
-  background: conic-gradient(from 180deg at 50% 50%, rgb(255, 255, 255) 180.51deg, rgba(18, 75, 53, 0.5) 359.87deg);
+  background:conic-gradient(from 180deg at 50% 50%, #124B35 0%, #DADADAFF 49%, #124B35 100%);
 }
 
 .HOMEPAGE .bell-pin-fill {

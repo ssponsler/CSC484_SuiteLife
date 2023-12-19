@@ -100,11 +100,14 @@
           <img class="vector-2" src="img/vector-25.svg" />
           <img class="vector-3" src="img/vector-25.svg" />
           <div class="group">
-            <div class="overlap-8">
-              <div class="gender-filter-preset-text">Female</div>
-              <img class="polygon" src="img/polygon-1.svg" />
-            </div>
-            <div class="filter-subtitle-text">Preferred Gender</div>
+            <label for="pref-gender" class="gender-filter-preset-text">Preferred Gender</label>
+            <select name="pref-gender" id="pref-gender" class="pref-gender">
+               <option value="male">Male</option>
+               <option value="female">Female</option>
+               <option value="non-binary">Non-Binary</option>
+               <option value="other">Other</option>
+               <option value="pnts">Prefer Not To Say</option>
+            </select>
           </div>
           <div class="group-2">
             <div class="filter-subtitle-text">Roommate Count</div>

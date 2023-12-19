@@ -29,7 +29,7 @@
 .PROFILE .overlap-group {
   width: 704px;
   border-radius: 15px;
-  background: conic-gradient(from 180deg at 50% 50%, rgba(18, 75, 53, 0.5) 0.05deg, rgb(255, 255, 255) 180.15deg);
+  background: conic-gradient(from 180deg at 50% 50%, #124B35 0%, #DADADAFF 49%, #124B35 100%);
   position: relative;
   height: 723px;
 }
