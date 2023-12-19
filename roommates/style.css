@@ -70,7 +70,7 @@
   white-space: nowrap;
 }
 
-.ROOMMATES .text-wrapper {
+.ROOMMATES .text-wrapper, .desc-wrapper-1 {
   color: #000000;
 }
 
@@ -79,7 +79,7 @@
   text-decoration: underline;
 }
 
-.ROOMMATES .text-wrapper-2 {
+.ROOMMATES .page-num {
   width: 153px;
   top: 515px;
   left: 254px;
@@ -108,7 +108,7 @@
   border-color: #000000;
 }
 
-.ROOMMATES .text-wrapper-3 {
+.ROOMMATES .filter-text {
   position: absolute;
   width: 88px;
   top: 8px;
@@ -157,7 +157,7 @@
   border-color: #000000;
 }
 
-.ROOMMATES .jenna {
+.ROOMMATES .rm1 {
   position: absolute;
   width: 274px;
   height: 126px;
@@ -165,7 +165,7 @@
   left: 155px;
 }
 
-.ROOMMATES .text-wrapper-4 {
+.ROOMMATES .rm1-name, .rm2-name, .rm3-name {
   width: 184px;
   top: 0;
   left: 0;
@@ -181,7 +181,7 @@
   white-space: nowrap;
 }
 
-.ROOMMATES .text-wrapper-5 {
+.ROOMMATES .rm1-major, .rm2-major, .rm3-major {
   width: 184px;
   position: absolute;
   top: 59px;
@@ -197,7 +197,7 @@
   white-space: nowrap;
 }
 
-.ROOMMATES .text-wrapper-6 {
+.ROOMMATES .rm1-age, .rm2-age, .rm3-age {
   position: absolute;
   width: 184px;
   top: 37px;
@@ -228,7 +228,7 @@
   line-height: 20px;
 }
 
-.ROOMMATES .text-wrapper-7 {
+.ROOMMATES .desc-wrapper-2 {
   color: #194bfc;
 }
 
@@ -249,7 +249,7 @@
   left: 213px;
 }
 
-.ROOMMATES .sarah {
+.ROOMMATES .rm2 {
   position: absolute;
   width: 280px;
   height: 126px;
@@ -281,7 +281,7 @@
   left: 213px;
 }
 
-.ROOMMATES .amy {
+.ROOMMATES .rm3 {
   position: absolute;
   width: 274px;
   height: 126px;
