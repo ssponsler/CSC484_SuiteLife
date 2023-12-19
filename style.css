@@ -238,7 +238,6 @@ html, body {
 
 
 
-/* Dropup Button */
 .dropbtn {
   /* background-color: #3498DB; */
   color: white;
@@ -247,13 +246,11 @@ html, body {
   border: none;
 }
 
-/* The container <div> - needed to position the dropup content */
 .dropup {
   position: relative;
   display: inline-block;
 }
 
-/* Dropup content (Hidden by Default) */
 .dropup-content {
   display: none;
   position: absolute;
@@ -267,7 +264,6 @@ html, body {
   overflow-y: auto;
 }
 
-/* Links inside the dropup */
 .dropup-content a {
   color: black;
   padding: 40px 46px;
@@ -275,13 +271,11 @@ html, body {
   display: block;
 }
 
-/* Change color of dropup links on hover */
 .dropup-content a:hover {
   background-color: #ddd;
   bottom:100%;
 }
 
-/* Show the dropup menu on hover */
 /* .dropup:hover .dropup-content{
   display: block;
 } */
@@ -292,10 +286,9 @@ html, body {
   bottom: -185%;
 }
 
-/* Change the background color of the dropup button when the dropup content is shown
 .dropup:hover .dropbtn {
-  background-color: #2980B9;
-} */
+  background-color: #297fb938;
+} 
 
 .HOMEPAGE .profile-text {
   position: absolute;
